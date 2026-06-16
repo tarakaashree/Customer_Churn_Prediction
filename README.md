@@ -77,56 +77,14 @@ Save Model
 Joblib
 Deployment
 Streamlit
-Project Structure
-Customer_Churn_Project/
-│
-├── data/
-│   └── Telco_Customer_Churn.csv
-│
-├── notebooks/
-│   └── churn_analysis.ipynb
-│
-├── models/
-│   ├── encoder.joblib
-│   ├── scaler.joblib
-│   └── rfc_model.joblib
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-└── assets/
-Streamlit Dashboard Features
+
+Streamlit Dashboard Features:
 User-friendly interface
 Customer information input form
 Real-time churn prediction
 Machine learning model integration
 Business-oriented decision support
-Key Insights
-The analysis identified several factors strongly associated with customer churn:
-Contract type significantly influences churn behavior.
-Customers with month-to-month contracts exhibit higher churn rates.
-Customers without technical support services are more likely to churn.
-Internet service type impacts customer retention.
-Payment method patterns show differences in churn behavior.
-Customer tenure plays an important role in customer loyalty.
-Future Enhancements
-Hyperparameter tuning for improved model performance
-Feature importance visualization
-Probability-based churn risk scoring
-Model explainability using SHAP
-Deployment to Streamlit Community Cloud
-Integration with real-time customer databases
-Learning Outcomes
-Through this project, the following skills were applied and strengthened:
-Data Cleaning and Preprocessing
-Exploratory Data Analysis
-Feature Engineering
-Classification Algorithms
-Model Evaluation
-Data Visualization
-Machine Learning Deployment
-Streamlit Application Development
+
 Author
 Tarakaa Shree A
 Data Science Student | Machine Learning Enthusiast
